@@ -1,0 +1,22 @@
+{
+  "name": "nodehangman",
+  "version": "1.0.0",
+  "description": "hangman using nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seytorin/nodeHangman.git"
+  },
+  "author": "Sharif Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seytorin/nodeHangman/issues"
+  },
+  "homepage": "https://github.com/seytorin/nodeHangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
